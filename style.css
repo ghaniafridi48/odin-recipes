@@ -1,0 +1,16 @@
+div , .heading, .recipe-links{
+    border-radius: 20px; 
+    padding: 20px;
+
+}
+.heading{
+    background-color: rgb(68, 112, 151) ;
+    color: aliceblue;
+    text-align: center;
+    padding: 20px;
+}
+a{
+    color: black;
+    background-color: rgb(196, 243, 255);
+    
+}

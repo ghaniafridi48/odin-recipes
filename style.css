@@ -1,16 +1,25 @@
-div , .heading, .recipe-links{
-    border-radius: 20px; 
-    padding: 20px;
+body{
+    background-color: rgb(227, 244, 245);
+}
+
+h1{
+    text-align: center;
+}
+span{
+    background-color: rgb(72, 146, 146);
+    padding-inline: 8px;
+    border-radius: 6px;
+    color: aliceblue;
+}
+img{
+    display: inline-block;
+    border: 2px solid red ;
+}
+#highlight{
+    background-color: rgba(29, 127, 63, 0.735);
 
 }
-.heading{
-    background-color: rgb(68, 112, 151) ;
-    color: aliceblue;
-    text-align: center;
-    padding: 20px;
-}
-a{
-    color: black;
-    background-color: rgb(196, 243, 255);
-    
+
+p,ul,ol{
+    background-color: rgba(210, 222, 216, 0.523);
 }
